@@ -1,4 +1,4 @@
-// compile with gcj --encoding=utf8 --main=FranceIOIJvs2Java -o FranceIOIJvs2Java FranceIOIJvs2Java.java
+// compile with gcj --encoding=utf8 --main=FranceIOIJvs2Java -o Jvs2Java Jvs2Java.java
 import java.io.*;
 import java.util.*;
 
