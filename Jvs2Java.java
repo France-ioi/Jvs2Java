@@ -1,8 +1,8 @@
-// compile with gcj --encoding=utf8 --main=FranceIOIJvs2Java -o Jvs2Java Jvs2Java.java
+// compile with gcj --encoding=utf8 --main=Jvs2Java -o Jvs2Java Jvs2Java.java
 import java.io.*;
 import java.util.*;
 
-public class FranceIOIJvs2Java
+public class Jvs2Java
 {
    public static String translateJvsToJava(String jvsCode, List<String> lib) 
    {
